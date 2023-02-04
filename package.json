@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "main": "index.tsx",
+  "dependencies": {
+    "@formily/antd": "^2.0.16",
+    "@formily/core": "^2.0.16",
+    "@formily/react": "^2.0.16",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "ahooks": "3.7.4",
+    "antd": "^4.19.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-is": "^17.0.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "keywords": [],
+  "name": "canvas-pologon",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
